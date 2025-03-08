@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    border: border-box;
+    padding: 0%;
+}
+
+.hearder{
+    height: 100px;
+    background-color: rgb(35, 35, 167);
+}
+.logo{
+    height: 100px;
+    width: 150px;
+}
+
+.header h1{
+  text-align: center;
+}
+.card{
+    width: 300px;
+    height: 500px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+    vertical-align: top;
+    margin: 20px;
+    color: black;
+    background-image: url(doctor\ card.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    opacity: 0.85;
+    float: left;
+}
+
+.vitals{
+    width: 400px;
+    height: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+    vertical-align: top;
+    margin: 20px;
+    color: black;
+    
+    
+}
